@@ -94,7 +94,7 @@ select top (10)
 	sum(Profit)
 FROM SuperstoreAnalysis
 Group by Customer_Name, Customer_ID
-order by sum(Profit) desc;
+order by sum(Profit) desc
 ;with Discount_Analysis as(
 	select 
 		Sales,
