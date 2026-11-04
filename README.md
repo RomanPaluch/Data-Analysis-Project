@@ -63,7 +63,9 @@ The dashboard includes:
 - Orders by Product Category
 - Product performance table
 - Year selection filters
-- Additional yearly KPIs for Profit, Sales, Orders, and Profit Margin
+- Additional yearly KPIs for Profit, Sales, Orders, and Profit Marginň
+
+  ![Power BI Dashboard](Dashboard.png)
 
 ## Key Business Insights
 
@@ -88,18 +90,6 @@ These findings provide an overview of the store's sales performance and profitab
 - Interactive dashboard development
 - Interpreting and communicating business insights
 
-## Project Status
-
-- [x] Dataset acquisition
-- [x] Data import into SQL Server
-- [x] Data type adjustments
-- [x] SQL data exploration and preparation
-- [x] Main SQL analytical queries
-- [x] Power BI dashboard development
-- [x] Business insights and conclusions
-- [x] GitHub documentation
-
----
 
 **Project:** Sales Analytics – Superstore Dataset  
 **Author:** Data Analytics Portfolio Project
